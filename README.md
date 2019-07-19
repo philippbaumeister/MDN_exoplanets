@@ -16,6 +16,6 @@ Trained machine learning models and python notebooks for [Paper].
 
 ### How to use
 
-* *MDN_exoplanets.ipyn* contains all the code to load the trained MDN models and predict the distribution of possible interior structures of a planet.
+* *MDN_exoplanets.ipynb* contains all the code to load the trained MDN models and predict the distribution of possible interior structures of a planet.
 * The *mdn* directory contains the MDN layer code adopted from <https://github.com/cpmpercussion/keras-mdn-layer>.
 * The *models* directory contains data scalers and the MDN models trained either with mass and radius of the planet, or with mass, radius, and k<sub>2</sub>.
