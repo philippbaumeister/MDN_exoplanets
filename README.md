@@ -15,7 +15,7 @@ Trained machine learning models and python notebooks for [Paper].
 - ``joblib >= 0.13.2``
 - ``scikit-learn = 0.20.2``
 
-#### Installing packages
+#### Installing the required packages
 
 ##### Using pip
 ```
