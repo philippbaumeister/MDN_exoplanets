@@ -1,6 +1,6 @@
 # Inferring interior structures of exoplanets with Mixture Density Networks
 
-Trained machine learning models and python notebooks for [Paper].
+Trained machine learning models and python notebooks from the paper [Machine learning inference of the interior structure of low-mass exoplanets]() (Baumeister et al. 2019, in review).
 
 ### Required packages
 
@@ -22,7 +22,7 @@ Trained machine learning models and python notebooks for [Paper].
 pip install -r requirements.txt
 ```
 
-##### Using conda
+##### Using anaconda
 ```
 conda env create -f requirements.yml
 ```
