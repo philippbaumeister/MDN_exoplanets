@@ -15,7 +15,7 @@ This project requires Python 3.
 - ``tensorflow-probability = 0.5.0``
 - ``ipywidgets >= 7.4.2``
 - ``joblib >= 0.13.2``
-- ``scikit-learn = 0.20.2``
+- ``scikit-learn = 0.21.3``
 
 #### Installing the required packages
 
