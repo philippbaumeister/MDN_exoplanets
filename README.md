@@ -1,7 +1,7 @@
 # Inferring interior structures of exoplanets with Mixture Density Networks
 ![MIT License](https://img.shields.io/github/license/philippbaumeister/MDN_exoplanets.svg?style=flat-square)
 
-This repository contains the trained machine learning models and python notebooks for the paper [Machine learning inference of the interior structure of low-mass exoplanets]() (Baumeister et al. 2019, in review).
+This repository contains the trained machine learning models and python notebooks for the paper [Machine learning inference of the interior structure of low-mass exoplanets]() (Baumeister et al. 2019, ApJ. in press).
 
 ### Required packages
 
