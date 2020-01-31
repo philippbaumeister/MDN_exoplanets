@@ -28,6 +28,10 @@ pip install -r requirements.txt
 ```
 conda env create -f requirements.yml
 ```
+Activate with
+```
+conda activate tf1.12
+```
 
 ### How to use
 
