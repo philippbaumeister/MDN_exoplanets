@@ -1,11 +1,12 @@
 # Inferring interior structures of exoplanets with Mixture Density Networks
-![MIT License](https://img.shields.io/github/license/philippbaumeister/MDN_exoplanets.svg?style=flat)
+![MIT License](https://img.shields.io/github/license/philippbaumeister/MDN_exoplanets.svg?style=flat-square) [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.3556208-blue?style=flat-square)](https://zenodo.org/badge/latestdoi/188444287)
 
-This repository contains the trained machine learning models and python notebooks for the paper [Machine learning inference of the interior structure of low-mass exoplanets]() (Baumeister et al. 2019, in review).
+This repository contains the trained machine learning models and python notebooks for the paper [Machine-learning inference of the interior structure of low-mass exoplanets](https://doi.org/10.3847/1538-4357/ab5d32) (Baumeister et al. 2020).
 
 ### Required packages
 
-- ``python >= 3.6.8``
+This project requires Python 3.
+
 - ``keras = 2.1.6``
 - ``numpy = 1.15.0``
 - ``scipy >= 1.2.0``
@@ -14,7 +15,7 @@ This repository contains the trained machine learning models and python notebook
 - ``tensorflow-probability = 0.5.0``
 - ``ipywidgets >= 7.4.2``
 - ``joblib >= 0.13.2``
-- ``scikit-learn = 0.20.2``
+- ``scikit-learn = 0.21.3``
 
 #### Installing the required packages
 
@@ -26,6 +27,10 @@ pip install -r requirements.txt
 ##### Using anaconda
 ```
 conda env create -f requirements.yml
+```
+Activate with
+```
+conda activate tf1.12
 ```
 
 ### How to use
