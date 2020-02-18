@@ -7,15 +7,15 @@ This repository contains the trained machine learning models and python notebook
 
 This project requires Python 3.
 
-- ``keras = 2.1.6``
-- ``numpy = 1.15.0``
+- ``keras = 2.2.4``
+- ``numpy = 1.18.0``
 - ``scipy >= 1.2.0``
 - ``matplotlib >= 3.0.2``
-- ``tensorflow = 1.12.0``
-- ``tensorflow-probability = 0.5.0``
+- ``tensorflow = 1.15.0``
+- ``tensorflow-probability = 0.7.0``
 - ``ipywidgets >= 7.4.2``
 - ``joblib >= 0.13.2``
-- ``scikit-learn = 0.21.3``
+- ``scikit-learn = 0.22.1``
 
 #### Installing the required packages
 
