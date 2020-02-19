@@ -19,18 +19,18 @@ This project requires Python 3.
 
 #### Installing the required packages
 
-##### Using pip
-```
-pip install -r requirements.txt
-```
-
-##### Using anaconda
+##### Using anaconda (preferred)
 ```
 conda env create -f requirements.yml
 ```
 Activate with
 ```
 conda activate tf1.15
+```
+
+##### Using pip
+```
+pip install -r requirements.txt
 ```
 
 ### How to use
