@@ -1,5 +1,5 @@
 keras==2.2.4
-numpy==1.18.1
+numpy==1.22.0
 scipy>=1.2.0
 matplotlib>=3.0.2
 tensorflow==1.15.4
